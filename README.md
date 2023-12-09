@@ -25,6 +25,8 @@ This public dataset is hosted in Google BigQuery and is included in BigQuery's 1
 
 Project completed in September-October 2023.
 
+Columns :
+
 - unique_key - Unique identifier for the trip.  
 - taxi_id - A unique identifier for the taxi.  
 - trip_start_timestamp - When the trip started, rounded to the nearest 15 minutes.  
