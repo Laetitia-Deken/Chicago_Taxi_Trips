@@ -1,6 +1,8 @@
 # Chicago_Taxi_Trips Exploratory (In French)
 Exploration of Chicago Taxi Trips since 2013 (with Python and SQL - In French)
 
+![Chicago Taxi Trips Exploratory]([spotify_youtube.jpg](https://github.com/Laetitia-Deken/Chicago_Taxi_Trips/blob/main/taxi.jpg) "Chicago taxi Trips Exploratory")
+
 Links : 
 https://data.cityofchicago.org/stories/s/spcw-brbq
 https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew/about_data
