@@ -1,5 +1,5 @@
 # Chicago_Taxi_Trips Exploratory (In French)
-Exploration of Chicago Taxi Trips since 2013 (with Python and DSL - In French)
+Exploration of Chicago Taxi Trips since 2013 (with Python and SQL - In French)
 
 Links : 
 https://data.cityofchicago.org/stories/s/spcw-brbq
