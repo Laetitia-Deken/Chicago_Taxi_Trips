@@ -47,9 +47,9 @@ Columns :
 - pickup_latitude - The latitude of the center of the pickup census tract or the community area if the census tract has been hidden for privacy.  
 - pickup_longitude - The longitude of the center of the pickup census tract or the community area if the census tract has been hidden for privacy.  
 - pickup_location - The location of the center of the pickup census tract or the community area if the census tract has been hidden for privacy.  
-dropoff_latitude - The latitude of the center of the dropoff census tract or the community area if the census tract has been hidden for privacy.  
-dropoff_longitude - The longitude of the center of the dropoff census tract or the community area if the census tract has been hidden for privacy.  
-dropoff_location - The location of the center of the dropoff census tract or the community area if the census tract has been hidden for privacy. 
+- dropoff_latitude - The latitude of the center of the dropoff census tract or the community area if the census tract has been hidden for privacy.  
+- dropoff_longitude - The longitude of the center of the dropoff census tract or the community area if the census tract has been hidden for privacy.  
+- dropoff_location - The location of the center of the dropoff census tract or the community area if the census tract has been hidden for privacy. 
 
 
 
