@@ -1,4 +1,4 @@
-# Chicago_Taxi_Trips Exploratory (In French)
+# Chicago_ axi Trips Exploratory (In French)
 Exploration of Chicago Taxi Trips since 2013 (BigQuery Data with Python - In French)
 
 ![Chicago Taxi Trips Exploratory](taxi.jpg "Chicago Taxi Trips Exploratory")
